@@ -1,0 +1,9 @@
+D:\VuTuanAnh2019603784\DE2\BUS_Product\bin\Debug\BUS_Product.dll
+D:\VuTuanAnh2019603784\DE2\BUS_Product\bin\Debug\BUS_Product.pdb
+D:\VuTuanAnh2019603784\DE2\BUS_Product\bin\Debug\DAL_Product.dll
+D:\VuTuanAnh2019603784\DE2\BUS_Product\bin\Debug\DAL_Product.pdb
+D:\VuTuanAnh2019603784\DE2\BUS_Product\obj\Debug\BUS_Product.csproj.AssemblyReference.cache
+D:\VuTuanAnh2019603784\DE2\BUS_Product\obj\Debug\BUS_Product.csproj.CoreCompileInputs.cache
+D:\VuTuanAnh2019603784\DE2\BUS_Product\obj\Debug\BUS_Product.csproj.CopyComplete
+D:\VuTuanAnh2019603784\DE2\BUS_Product\obj\Debug\BUS_Product.dll
+D:\VuTuanAnh2019603784\DE2\BUS_Product\obj\Debug\BUS_Product.pdb
